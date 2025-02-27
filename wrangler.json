@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "billowing-violet-e6e6",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "1354d52b-b229-4162-8ff0-719278600b30",
+      "database_name": "black-disk-7970-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
